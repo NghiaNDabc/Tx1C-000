@@ -1,0 +1,15 @@
+E:\Users\DELL\source\repos\Tx1C#\bin\Debug\Tx1C#.exe.config
+E:\Users\DELL\source\repos\Tx1C#\bin\Debug\Tx1C#.exe
+E:\Users\DELL\source\repos\Tx1C#\bin\Debug\Tx1C#.pdb
+E:\Users\DELL\source\repos\Tx1C#\obj\Debug\Tx1C#.csproj.AssemblyReference.cache
+E:\Users\DELL\source\repos\Tx1C#\obj\Debug\Tx1C#.csproj.CoreCompileInputs.cache
+E:\Users\DELL\source\repos\Tx1C#\obj\Debug\Tx1C#.exe
+E:\Users\DELL\source\repos\Tx1C#\obj\Debug\Tx1C#.pdb
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\bin\Debug\Tx1C#.exe.config
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\bin\Debug\Tx1C#.exe
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\bin\Debug\Tx1C#.pdb
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\obj\Debug\Tx1C#.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\obj\Debug\Tx1C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\obj\Debug\Tx1C#.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\obj\Debug\Tx1C#.exe
+C:\Users\HP\Documents\Zalo Received Files\Tx1C#\Tx1C#\obj\Debug\Tx1C#.pdb
